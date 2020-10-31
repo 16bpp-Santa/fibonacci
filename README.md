@@ -1,4 +1,4 @@
-# fibonacci
+# Fibonacci
 Fibonacci Series
 
 Just a Fibonacci Series in C++
